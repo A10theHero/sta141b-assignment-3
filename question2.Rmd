@@ -1,0 +1,28 @@
+---
+title: "Question 2"
+author: YOUR NAME
+---
+
+```{r, message = FALSE}
+library(tidyverse)
+library(plotly)
+```
+
+(a) Consider this brith data from https://github.com/fivethirtyeight/data/tree/master/births.
+
+    Create a new variable `date` by using `make_date`.
+
+```{r}
+url <- "https://raw.githubusercontent.com/fivethirtyeight/data/master/births/US_births_2000-2014_SSA.csv"
+briths <- read_csv(url)
+```
+
+(b) Plot a time series plot for the number of births grouped by years. (You could either use ggplot2 or plotly)
+
+
+
+(c) Combined all the years, create a sunbrust plot (use plotly or otherwise) for the number of births with the inner ring equals to Q1, Q2, Q3 and Q4, the middle ring equals to months and the outer most ring equals to week of the day.
+
+
+
+(d) Repeat (c), instead of combining all the years, add a slider for year.

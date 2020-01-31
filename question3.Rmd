@@ -1,0 +1,23 @@
+---
+title: "Question 3"
+author: YOUR NAME
+---
+
+
+```{r, message = FALSE}
+library(tidyverse)
+```
+
+It is an chance for you to practice your skills on regular expressions.
+
+
+(a) Consider the `phones.txt` files, extract all the telephone/fax numbers. (Hint: there should be 24 of them.)
+
+
+
+(b) Consider the `names.txt` files, extract all the names by using spliting each line.
+
+
+
+(c) Consider the course description page https://statistics.ucdavis.edu/courses/descriptions-undergrad.
+    Extract the course numbers and titles from the url and create a table with columns `course` and `title`.
