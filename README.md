@@ -5,7 +5,7 @@ This is your second assignment. I hope you have already setup your computer.
 
 Instructions
 
-1. accept the assignment via the link: [link]
+1. accept the assignment via the link: https://classroom.github.com/a/EfqsvqiQ
     Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-2-USERNAME`
     This repository could be only seen by you.
 1. `git clone` the repository locally (or create new R project from version control)
