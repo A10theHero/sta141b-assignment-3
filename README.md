@@ -1,7 +1,7 @@
 # Assignment 3
 
 
-This is your second assignment. I hope you have already setup your computer.
+This is your third assignment.
 
 Instructions
 
