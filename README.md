@@ -6,7 +6,7 @@ This is your third assignment.
 Instructions
 
 1. accept the assignment via the link: https://classroom.github.com/a/EfqsvqiQ
-    Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-2-USERNAME`
+    Your repository url should be `https://github.com/UCDavis-STA-141B-Winter-2020/sta141b-assignment-3-USERNAME`
     This repository could be only seen by you.
 1. `git clone` the repository locally (or create new R project from version control)
 1. answer the questions in the Rmarkdown files 
