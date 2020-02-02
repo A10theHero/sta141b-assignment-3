@@ -21,3 +21,4 @@ It is an chance for you to practice your skills on regular expressions.
 
 (c) Consider the course description page https://statistics.ucdavis.edu/courses/descriptions-undergrad
     Extract the course numbers and titles from the url and create a table with columns `course` and `title`.
+    (The number of units is not part of the title)
