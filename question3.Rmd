@@ -15,7 +15,7 @@ It is an chance for you to practice your skills on regular expressions.
 
 
 
-(b) Consider the `names.txt` files, extract all the names by using spliting each line.
+(b) Consider the `names.txt` files, extract all the names by splitting each line.
 
 
 
