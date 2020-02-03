@@ -21,7 +21,7 @@ mar_22_2020 <- c("mar-22-2020", "2020/03/22", "2020-03-22", "22 mar 2020")
 (b) Convert `"mar 22 2020 12:30:00"` as R UTC datetime.
 
 
-(c) Convert the timezone of (b) to PDT.
+(c) Convert the timezone of (b) to PDT (without changing the time).
 
 
 (d) Determine the 110th day of 2020.
